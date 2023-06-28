@@ -40,6 +40,8 @@ If multiple pieces of information are returned (1. 2. 3 appears in the returned 
 
 Like the question of **How to use cloud server to deploy web pages?**
 
+The first of the answers given in AIGC （1.） is: **Choose a Cloud Service Provider**
+
 
 [After personal testing, in the process of information extraction, the information returned is a long piece of text, and it is difficult to extract one by one from it at this stage
 
