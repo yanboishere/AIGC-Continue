@@ -22,5 +22,7 @@ For example:
 <img width="1040" alt="截屏2023-06-28 下午4 10 59" src="https://github.com/yanboishere/AIGC-Continue/assets/76860915/254ca754-92a1-4372-95c7-4eeef3fcaa18">
 
 <br>
+<br>
 
-But you can't deal your question for ask once.
+
+If you are a novice, there is a high probability that you will not get all the answers you want in one inquiry
