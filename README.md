@@ -1,4 +1,4 @@
-# AIGC Mind Mapping
+# AIGC Mind Map
 
 ## Give AIGC a question,Output a set of mind maps for you.
 ---
@@ -28,3 +28,13 @@ For example:
 If you are a novice, there is a high probability that you will not get all the answers you want in one inquiry.
 
 ---
+
+## How AIGC Mind Map Deal This Problem？
+The AIGC mind map will ask you questions that will answer multiple answers. Send the question through the API interface of the AIGC platform for inquiry. If multiple pieces of information are returned (1. 2. 3 appears in the returned information) . strip)
+Our platform system began to make mind maps
+
+[After personal testing, in the process of information extraction, the information returned is a long piece of text, and it is difficult to extract one by one from it at this stage
+
+So we now choose to only generate answers with clear 1. 2. 3. in the returned information]
+
+
