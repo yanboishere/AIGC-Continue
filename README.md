@@ -2,7 +2,7 @@
 
 ## Give AIGC a question,Output a set of mind maps for you.
 
-[简体中文]()
+### [简体中文](https://github.com/yanboishere/AIGC-Mind-Mapping/blob/master/README_cn.md)
 ---
 
 When we ask the existing AIGC tools to ask them questions, our answers are only 1., 2., 3.
