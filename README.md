@@ -1,4 +1,4 @@
-# AIGC-Continue
+# AIGC Mind Mapping
 One question With AIGC，more Answer Ways.
 
 ---
