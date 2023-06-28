@@ -1,5 +1,5 @@
 # AIGC Mind Mapping
-One question With AIGC，more Answer Ways.
+One question With AIGC，more Answer Ways gives yourself with Mind-Mapping
 
 ---
 
