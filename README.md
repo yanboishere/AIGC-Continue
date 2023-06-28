@@ -1,4 +1,4 @@
-<img width="748" alt="截屏2023-06-28 下午5 42 10" src="https://github.com/yanboishere/AIGC-Mind-Mapping/assets/76860915/d46a49f0-a7f2-4235-a88c-3a8156be4bec"><img width="1257" alt="截屏2023-06-28 下午5 48 29" src="https://github.com/yanboishere/AIGC-Mind-Mapping/assets/76860915/438ec3d6-9224-41ee-a7c1-75d7f6896e4f"># AIGC Mind Map
+# AIGC Mind Map
 
 ## Give AIGC a question,Output a set of mind maps for you.
 ---
