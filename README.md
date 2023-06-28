@@ -11,7 +11,7 @@ And if you want to understand this question in detail, you will most likely need
 
 ---
 
-For example:
+# For example
 
 ## 🧠When I ask AIGC tools:
 
