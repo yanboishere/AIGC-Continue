@@ -54,10 +54,10 @@ We will receive：
 
 And Then we will summarize all the generated information into a mind map.
 
-
+### Test Demo
 <img width="748" alt="截屏2023-06-28 下午5 42 10" src="https://github.com/yanboishere/AIGC-Mind-Mapping/assets/76860915/c6324490-0c3c-4f67-a3cf-4fd618557cff">
 
-
+### Mind Map Demo
 <img width="1257" alt="截屏2023-06-28 下午5 49 00" src="https://github.com/yanboishere/AIGC-Mind-Mapping/assets/76860915/d22b59f3-d22e-4755-aa83-db028b9451bf">
 
                        
