@@ -25,4 +25,6 @@ For example:
 <br>
 
 
-If you are a novice, there is a high probability that you will not get all the answers you want in one inquiry
+If you are a novice, there is a high probability that you will not get all the answers you want in one inquiry.
+
+---
