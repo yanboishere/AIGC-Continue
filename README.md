@@ -9,6 +9,8 @@ And if you want to understand this question in detail, you will most likely need
 
 "how to do 1." or "1. what"
 
+---
+
 For example:
 
 When I ask AIGC tools:
@@ -18,5 +20,7 @@ When I ask AIGC tools:
 It answered that —— you can follow these general steps: **1. 2. 3. 4. ...... 9.** 
 
 <img width="1040" alt="截屏2023-06-28 下午4 10 59" src="https://github.com/yanboishere/AIGC-Continue/assets/76860915/254ca754-92a1-4372-95c7-4eeef3fcaa18">
+
+<br>
 
 But you can't deal your question for ask once.
