@@ -1,6 +1,6 @@
 # AIGC Mind Mapping
-One question With AIGC，more Answer Ways gives yourself with Mind-Mapping
 
+## Give AIGC a question,Output a set of mind maps for you.
 ---
 
 When we ask the existing AIGC tools to ask them questions, our answers are only 1., 2., 3.
