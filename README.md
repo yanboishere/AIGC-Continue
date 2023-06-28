@@ -30,8 +30,11 @@ If you are a novice, there is a high probability that you will not get all the a
 ---
 
 ## How AIGC Mind Map Deal This Problem？
-The AIGC mind map will ask you questions that will answer multiple answers. Send the question through the API interface of the AIGC platform for inquiry. If multiple pieces of information are returned (1. 2. 3 appears in the returned information) . strip)
-Our platform system began to make mind maps
+The AIGC mind map will ask you questions that will answer multiple answers. 
+
+Send the question through the API interface of the AIGC platform for inquiry. 
+
+If multiple pieces of information are returned (1. 2. 3 appears in the returned information) . strip) Our platform system began to make mind maps.
 
 [After personal testing, in the process of information extraction, the information returned is a long piece of text, and it is difficult to extract one by one from it at this stage
 
