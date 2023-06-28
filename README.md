@@ -13,7 +13,7 @@ And if you want to understand this question in detail, you will most likely need
 
 For example:
 
-🧠When I ask AIGC tools:
+## 🧠When I ask AIGC tools:
 
 ❓**How to use cloud server to deploy web pages?**
 
