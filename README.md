@@ -1,4 +1,4 @@
-# AIGC Mind Map
+<img width="748" alt="截屏2023-06-28 下午5 42 10" src="https://github.com/yanboishere/AIGC-Mind-Mapping/assets/76860915/d46a49f0-a7f2-4235-a88c-3a8156be4bec"><img width="1257" alt="截屏2023-06-28 下午5 48 29" src="https://github.com/yanboishere/AIGC-Mind-Mapping/assets/76860915/438ec3d6-9224-41ee-a7c1-75d7f6896e4f"># AIGC Mind Map
 
 ## Give AIGC a question,Output a set of mind maps for you.
 ---
@@ -53,9 +53,17 @@ We will receive：
 123456789 steps......
 
 And Then we will summarize all the generated information into a mind map.
+
+
+<img width="748" alt="截屏2023-06-28 下午5 42 10" src="https://github.com/yanboishere/AIGC-Mind-Mapping/assets/76860915/c6324490-0c3c-4f67-a3cf-4fd618557cff">
+
+
+<img width="1257" alt="截屏2023-06-28 下午5 49 00" src="https://github.com/yanboishere/AIGC-Mind-Mapping/assets/76860915/d22b59f3-d22e-4755-aa83-db028b9451bf">
+
                        
 
 [After personal testing, in the process of information extraction, the information returned is a long piece of text, and it is difficult to extract one by one from it at this stage
+
 
 So we now choose to only generate answers with clear 1. 2. 3. in the returned information]
 
