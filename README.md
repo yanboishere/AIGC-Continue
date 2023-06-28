@@ -50,7 +50,7 @@ We will receive：
 
    <img width="1040" alt="截屏2023-06-28 下午5 28 34" src="https://github.com/yanboishere/AIGC-Mind-Mapping/assets/76860915/8159d186-b1cb-4670-8577-0e8018345df3">
 
-1. 2. 3. 4. 5. 6. 7. 8. 9. ......
+123456789 steps......
                        
 
 [After personal testing, in the process of information extraction, the information returned is a long piece of text, and it is difficult to extract one by one from it at this stage
