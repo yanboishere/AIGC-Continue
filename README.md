@@ -1,6 +1,8 @@
 # AIGC Mind Map
 
 ## Give AIGC a question,Output a set of mind maps for you.
+
+[简体中文]()
 ---
 
 When we ask the existing AIGC tools to ask them questions, our answers are only 1., 2., 3.
