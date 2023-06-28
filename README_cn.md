@@ -52,13 +52,13 @@ AIGC给出的第一个答案（1.）是：
 
 然后我们将总结生成的所有信息到一个思维导图中。
 
-### 测试演示
+### 演示文稿
 <img width="748" alt="截屏2023-06-28 下午5 42 10" src="https://github.com/yanboishere/AIGC-Mind-Mapping/assets/76860915/c6324490-0c3c-4f67-a3cf-4fd618557cff">
 
 ### 思维导图演示
 <img width="1257" alt="截屏2023-06-28 下午5 49 00" src="https://github.com/yanboishere/AIGC-Mind-Mapping/assets/76860915/d22b59f3-d22e-4755-aa83-db028b9451bf">
 
-                       
+文稿及思维导图展示 使用幕布平台制作                       
 
 [经过个人测试，在信息提取过程中，返回的信息是一段很长的文本，在当前阶段从中逐个提取出来比较困难
 
